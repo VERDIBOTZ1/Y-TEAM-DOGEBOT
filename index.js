@@ -1,6 +1,6 @@
-// Script by tio
+// Script by VERDI BOTZ
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©ROT WKWK
+// ©VERDI X TIO🗿
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -139,9 +139,9 @@ nopref = true
 numbernye = '0'
 autoketik = false;
 prefixStatus = false;
-targetpc = "6282221792667"; 
-owner = "6282221792667"; 
-fakeyoi = "Tio"; 
+targetpc = "6283869803330"; 
+owner = "6283869803330"; 
+fakeyoi = "VERDI"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -150,7 +150,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@628221792667"; 
+nomorowner1 = "@6283869803330"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
