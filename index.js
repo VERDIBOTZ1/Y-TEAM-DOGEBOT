@@ -1,6 +1,6 @@
 // Script by VERDI BOTZ
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©VERDI X TIO🗿
+// ©VERDI
 const {
   WAConnection: _WAConnection,
   MessageType,
