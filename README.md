@@ -49,7 +49,7 @@ CATATAN!
 
  ```Kalau masih gak faham chat owner```
 
-https://api.whatsapp.com/send/?phone=6282221792667&text&app_absent=0
+https://api.whatsapp.com/send/?phone=6283869803330&text&app_absent=0
 
 
 ⬇️⬇️⬇️⬇️
@@ -86,12 +86,13 @@ Ini buildpack nya bang paste ya jangan lupa mwehehehe
 `RYZEN BOTZ`
 
 
-`⚠️Gua Tio owner botcahbotz mengucapkan ngentot woi buat lu yg hilangin credits ini semalaman cuwk masa Di ilangin Dasar anak haram⚠️`
+`⚠️Gua Verdi colaborasi botcahbotz mau gucapin jan ilangin ceredit sama pembuat scrip yah⚠️`
 
+- [WHATSAPP](http://wa.me/6283869803330)
 - [WHATSAPP](http://wa.me/6282221792667)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL)
 
-
+- note kalo recode ga boleh keras ubah credit
 ## 🙏 Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
 
