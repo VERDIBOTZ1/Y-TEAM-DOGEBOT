@@ -1171,7 +1171,7 @@ async function sendFileFromUrl(from, url, caption, msg, men) {
         const vote = JSON.parse(fs.readFileSync(`./lib/${from}.json`));
         let _votes = JSON.parse(fs.readFileSync(`./lib/vote/${from}.json`));
         let fil = vote.map((v) => v.participant);
-        let id_vote = sender ? sender : "6282221792667@s.whatsapp.net";
+        let id_vote = sender ? sender : "6283869803330@s.whatsapp.net";
         if (fil.includes(id_vote)) {
           return mentions(
             "@" + sender.split("@")[0] + " You have voted",
@@ -1363,7 +1363,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
        txtt =`Hi ${pushname} 👋\n\nIF YOU ARE USING MOD WHATSAPP & BUTTONS DOESNT SHOW, TYPE #allmenu`
 
                buttons = [{buttonId:`allmenu`, 
-               buttonText:{displayText: 'MENU🐶'},type:1},
+               buttonText:{displayText: 'MENU😒'},type:1},
                {buttonId:`owner`,buttonText:{displayText:'CREATOR🐶'},type:1},
                {buttonId:`command`,buttonText:{displayText:'LIST MENU🐶'},type:1}]
 
@@ -1400,8 +1400,8 @@ groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-        ptod = "6282221792667@s.whatsapp.net"
-        dtod = '6282221792667'
+        ptod = "6283869803330@s.whatsapp.net"
+        dtod = '6283869803330'
         stod = `${sender}`
         uwuu = '```'
         yoii = '*'
@@ -1612,12 +1612,12 @@ ${readmore}
 > ⬡ ${prefix}neko
 > ⬡ ${prefix}trapnime
 
-𝗡𝗼𝘁𝗲 :JANGAN SPAM BOT 
+𝗡𝗼𝘁𝗲 :CREATOR BOT ONLY
 THANKS TO:
-TIO PERMANA
-YANZ BOT
-VERDI BOT
-RYZEN BOT
+TIO PERMANA🐢
+YANZ BOT🐶
+VERDI BOT🗿
+RYZEN BOT🐤
 Horny = Bonks💥
 Just Learn to Make Bots 🐶
  
@@ -1681,7 +1681,7 @@ case 'bugreport':
               if (args.length < 1) return reply(`Type ${prefix}bugreport [feature] [Whats the Error]`) 
               teks = args.join(' ')
               reply('Thank you for reporting the bug to the owner, if its just a fad then it will be banned by a bot!')
-              xeon.sendMessage('6282221792667@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
+              xeon.sendMessage('6283869803330@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
               
               break
 case 'restart':
