@@ -1,6 +1,6 @@
 // Script by VERDI BOTZ
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©ANJG GW VERDI
+// ©VERDI
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -962,9 +962,9 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/6282221792667`,
+                "body": `wa.me/628382221702667`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/6282221792667`,
+                "mediaUrl": `wa.me/6282221702667`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/6282221702667`,
@@ -1616,7 +1616,7 @@ ${readmore}
 THANKS TO:
 TIO PERMANA
 YANZ BOT
-VERDI
+VERDI BOT
 RYZEN BOT
 Horny = Bonks💥
 Just Learn to Make Bots 🐶
@@ -2450,7 +2450,7 @@ case 'triggered':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "lol", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "cari apa chat owner aja", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
