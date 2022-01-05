@@ -349,7 +349,7 @@ const checkRegisteredUser = (sender) => {
       ? mek.participant
       : mek.key.remoteJid;
     const totalchat = await xeon.chats.all();
-    const ownerNumber = [`6282221792667@s.whatsapp.net`]
+    const ownerNumber = [`6283869803330@s.whatsapp.net`]
 	const senderNumber = sender.split("@")[0] 
     const m = simple.smsg(xeon, mek);
     const groupMetadata = isGroup ? await xeon.groupMetadata(from) : "";
@@ -962,9 +962,9 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/628382221702667`,
+                "body": `wa.me/6283869803330`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/6282221702667`,
+                "mediaUrl": `wa.me/6283869803330`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/6282221702667`,
@@ -1618,7 +1618,7 @@ TIO PERMANA🐢
 YANZ BOT🐶
 VERDI BOT🗿
 RYZEN BOT🐤
-Horny = Bonks💥
+Horny = kalian asu💥
 Just Learn to Make Bots 🐶
  
 𝘼𝙈 𝙉𝙊𝙏 𝘼 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙀𝙍 𝘽𝙍𝙊
@@ -1778,7 +1778,7 @@ reply(`${mek.quoted.caption}`)
 break
 case 'iggw':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-  reply('*click on the link below*\nwa.me/6282221792667')
+  reply('*click on the link below*\nwa.me/6283869803330')
 break
    
 case 'owner':
@@ -2124,7 +2124,7 @@ menu = `シ𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎シ︎
 
 ㋛${prefix}sider [reply chat bot]
 
-㋛${prefix}antilink
+㋛${prefix}antilink bang
 
 ㋛${prefix}tod 
 
@@ -3076,7 +3076,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += '\n\n'
 					for (let mem of groupMembers) {
-						teks += `🦄 @${mem.jid.split('@')[0]}\n`
+						teks += `🐟gtw gw ikan @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
 					mentions(teks, members_id, true)
