@@ -150,7 +150,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@6283869803330"; 
+nomorowner1 = "@1(334)7216190"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -4817,11 +4817,11 @@ xeon.sendMessage(from, vid, video, {quoted: mek})
 break
 case 'writelist':
   reply(`Example ${prefix}write tes
-  🌿 ${prefix}write Tio
-  🌿 ${prefix}folioright Tio
-  🌿 ${prefix}folioleft Tio
-  🌿 ${prefix}writedown Tio
-  🌿 ${prefix}writeleft Tio`)
+  🌿 ${prefix}write VERDI
+  🌿 ${prefix}folioright VERDI
+  🌿 ${prefix}folioleft VERDI
+  🌿 ${prefix}writedown VERDI
+  🌿 ${prefix}writeleft VERDI`)
   break
 case 'folioleft':
 if (!c) return reply('Where is the text bro??')
